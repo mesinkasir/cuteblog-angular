@@ -8,7 +8,8 @@ export const blogs = [
     author: 'cuteblog',
     date: '28 April 2022',
     link: 'https://website.axcora.com',
-    content: ' ',
+    content:
+      'This is a cuteblog special for angular, cuteblog is present by axcora technology, cuteblog is a source code for blogger, with this project you can build and develope modern website blog using angular fast and easy. so lets get started now with cuteblog ',
   },
   {
     id: '1',
