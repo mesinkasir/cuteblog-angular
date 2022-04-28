@@ -8,8 +8,7 @@ export const blogs = [
     author: 'cuteblog',
     date: '28 April 2022',
     link: 'https://website.axcora.com',
-    content:
-      'Hello blogger this time to update and upgrade your blog platform with angular , angular is powerfull stable and fast for using blogging platform, many developer use angular for many project, with angular you can build a new modern blog, with single page application make simple for your blog, lets get started with angular now, if you need to develope or build with angular blog just contact us. ',
+    content: ' ',
   },
   {
     id: '1',
@@ -20,7 +19,7 @@ export const blogs = [
     image:
       'https://img.freepik.com/free-vector/cute-astronaut-dance-cartoon-vector-icon-illustration-technology-science-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3851.jpg?w=2000',
     description: 'Lets get started now build your modern blog platform',
-    content: `For first make sure you have register on stackblitz then you can easy and fast just click fork then this source code project is ready for you, that's it.... versy simple right`,
+    content: `For first make sure you have register on stackblitz then you can easy and fast just click fork then this source code project is ready for you, that's it.... versy simple right, or you can clone our github repo with run git clone https://github.com/mesinkasir/cuteblog-angular.git`,
   },
   {
     id: '2',
