@@ -44,7 +44,7 @@ export const blogs = [
       'https://img.freepik.com/free-vector/cute-astronaut-riding-rocket-waving-hand-cartoon-icon-illustration-science-technology-icon-concept_138676-2130.jpg?w=2000',
     description: 'Deploy and make your cuteblog online now',
     content:
-      'How to cloud cuteblog angular is very easy... you just need to register on firebase then you can fork this project and change anything with you needed, and deploy from stackblitz, and you can see your website is live now.. or you can use vercel, heroku or surge and other static host with integration your repo on github.',
+      'How to cloud cuteblog angular is very easy... after your register on stackblitz you can use stakblitz for you blog host, you can name it your project with your blog, and you can visit on yourblog.stackblitz.io or you can integrate with firebase then you can fork this project and change anything with you needed, and deploy from stackblitz, you can see your website is live now..',
   },
   {
     id: '4',
