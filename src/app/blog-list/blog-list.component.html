@@ -1,0 +1,35 @@
+<div class="col-12 col-md-12 p-3">
+  <h1>
+    <a routerLink="/">{{ title }}</a>
+  </h1>
+  <h2>{{ description }}</h2>
+  <p>
+    <a
+      href="https://www.hockeycomputindo.com/2022/04/buat-website-blog-menggunakan-angular.html"
+      >{{ intro }} →</a
+    >
+  </p>
+  <p>
+    <a href="https://axcora.my.id/pico/cuteblog/project"
+      >Download Cuteblog for other technology →</a
+    >
+  </p>
+</div>
+<div class="row">
+  <div *ngFor="let blog of blogs; index as blogId" class="col-12 col-md-4 p-3">
+    <div class="card p-1">
+      <a [title]="blog.title + ' details'" [routerLink]="['/blogs', blogId]">
+        <img class="img-fluid card" src="{{ blog.image }}" />
+        <div class="card-body p-3">
+          <h3>{{ blog.title }} ✏️</h3>
+          <p class="date">
+            <small
+              >👧&nbsp;{{ blog.author }}&nbsp;⏰ &nbsp;{{ blog.date }}</small
+            >
+          </p>
+          <p *ngIf="blog.description">📝 {{ blog.description }}</p>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
