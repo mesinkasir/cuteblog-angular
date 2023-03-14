@@ -10,6 +10,9 @@ Video [https://youtu.be/5t4w3wFeL9w →](https://youtu.be/5t4w3wFeL9w)
 
 ![cuteblog angular](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5XNMWFEvuE1oGA-K8vzGczGNeO3aMjwScKt5TDpPX2xqNWt2Cgq9Aujtm-8ZsjHc12FXc1UOybRRRfpwji8MpLuD_9cY_VD7JTuV8l-7T7klVqOUx5sY0haNkKvTPiAaSDvVOxMauTg5YiYWyKwq3ZSC0_ZZmaKPk4IrzTD9ma7unBDZe5I8JiT5tqw/s1920/free%20download%20cara%20membuat%20website%20blog%20angular.jpg)
 
+<a href="https://www.buymeacoffee.com/axcora"><img width="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIA9HMwkK8kr7uRwVNxnhXsLQsJHxQQYVSzqCAaK58OpJOiTlzbIX7eEwS_VpJ3oEG-xrmVEl2WKqGvB_o-KjyBGTbbjFHM_bN2Jce9g3FTnt2ZJViwcvB9DHPOKPEMCl7jTQRVWKPw_ETloH7_CK8Xr09SSNNx22xnfGjViwdEsGtR-yGrLmr-JUGHA/s1090/bmc-button.png"/></a>
+
+
 ---
 
 ### Cuteblog DISPLAY
@@ -29,3 +32,5 @@ Documentation [https://www.hockeycomputindo.com/2022/04/buat-website-blog-menggu
 Demo [https://cuteblog-ng.stackblitz.io →](https://cuteblog-ng.stackblitz.io/)
 
 Video [https://youtu.be/5t4w3wFeL9w →](https://youtu.be/5t4w3wFeL9w)
+
+<a href="https://www.buymeacoffee.com/axcora"><img width="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIA9HMwkK8kr7uRwVNxnhXsLQsJHxQQYVSzqCAaK58OpJOiTlzbIX7eEwS_VpJ3oEG-xrmVEl2WKqGvB_o-KjyBGTbbjFHM_bN2Jce9g3FTnt2ZJViwcvB9DHPOKPEMCl7jTQRVWKPw_ETloH7_CK8Xr09SSNNx22xnfGjViwdEsGtR-yGrLmr-JUGHA/s1090/bmc-button.png"/></a>
