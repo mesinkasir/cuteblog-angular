@@ -68,6 +68,6 @@ export const blogs = [
       'https://img.freepik.com/free-vector/astronaut-reading-book-beanbag-cartoon-vector-icon-illustration_138676-3451.jpg?w=2000',
     description: 'Fell free to contact cuteblog team',
     content:
-      'If you need help or you need to build modern website with unique design so you can contact our team, whatsapp : +6285646104747 or email axcora@gmail.com ',
+      'If you need help or you need to build modern website with unique design so you can contact our team, whatsapp : +62895339403223 or email axcora@gmail.com ',
   },
 ];
